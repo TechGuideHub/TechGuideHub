@@ -1,16 +1,31 @@
-## Hi there 👋
+# TechGuideHub
 
-<!--
-**TechGuideHub/TechGuideHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Practical Guides • Deep Dives • Code • Automations**
 
-Here are some ideas to get you started:
+Helping engineers and professionals master **AI, Cloud (OCI & Multi-Cloud), Python, Oracle Database, E-Business Suite, and Enterprise Automations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise Areas
+- **🧠 AI & Intelligent Agents** — Memory systems, architectures, coordination patterns & improvement loops
+- **☁️ Cloud** — OCI (Oracle Cloud Infrastructure), Multi-Cloud strategies, deployments & migrations
+- **🐍 Python** — Core concepts, advanced patterns, scripting & automation
+- **🗄️ Oracle DBA** — Administration, performance tuning, high availability & best practices
+- **🏢 E-Business Suite** — Apps DBA, patching, cloning, maintenance & customization
+- **⚡ Enterprise Automations** — Scripting, DevOps, CI/CD pipelines, Infrastructure as Code
+
+### 📚 What You'll Find Here
+- In-depth tutorials & real-world implementations
+- Production-ready code, scripts & notebooks
+- Best practices from enterprise environments
+- Open-source tools and learning resources
+
+---
+
+### 🔗 Connect
+- **X** → [@TechGuideHub](https://x.com/TechGuideHub)  
+  Long-form articles and daily technical insights
+
+---
+
+⭐ **Star the repositories** you find useful — it really helps the content grow!
+
+*New practical guides published regularly.*
